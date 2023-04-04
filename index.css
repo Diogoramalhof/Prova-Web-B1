@@ -1,0 +1,45 @@
+div{ 
+    margin: 0%;
+    background-color: aqua;
+    text-align: center;
+
+}
+
+header{
+    background-color: antiquewhite;
+    text-align: center;
+    }
+
+main{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+nav{
+    background-color: antiquewhite;
+    text-align: center;
+    }
+
+nav iframe {
+    width: 30%;
+    height: 371px;
+
+   
+}
+
+button{
+    cursor: pointer;
+    color: red;
+    background-color: black;
+
+}
+
+footer{ 
+
+        background-color: whitesmoke;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        
+
+}
